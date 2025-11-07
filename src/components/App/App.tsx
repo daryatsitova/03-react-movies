@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import css from './App.module.css'
-import type { Movie } from '../../../types/movie'
+import type { Movie } from '../../types/movie'
 import toast, { Toaster } from 'react-hot-toast'
 
 import SearchBar from '../SearchBar/SearchBar'
